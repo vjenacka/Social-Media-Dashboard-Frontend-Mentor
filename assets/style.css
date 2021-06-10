@@ -1,6 +1,18 @@
+/*css reset*/
 * {
   margin: 0;
   padding: 0;
   border: none;
   box-sizing: border-box;
+}
+
+.up {
+  color: green;
+}
+.down {
+  color: red;
+}
+.up img,
+.down img {
+  margin-bottom: 3px;
 }
